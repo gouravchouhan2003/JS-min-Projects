@@ -1,2 +1,2 @@
 # JS-min-Projects
-It's a repo of JS projects.
+It's a repo of JS projects..
